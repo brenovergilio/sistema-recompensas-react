@@ -11,10 +11,10 @@ Modifiquei o código-fonte da aplicação de captura das esferas do dragão de u
 
 ## Imagens
 
-![home](https://imgur.com/ErkLRM3)
-![cod](https://imgur.com/tHvmadB)
-![filter](https://imgur.com/AQmwuiz)
-![complete](https://imgur.com/6g6Eahg)
+![home](./screenshots/home.png)
+![cod](./screenshots/cod.png)
+![filter](./screenshots/filter.png)
+![complete](./screenshots/complete.png)
 
 ## Instalação
 
