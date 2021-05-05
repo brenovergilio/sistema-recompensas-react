@@ -1,7 +1,7 @@
 # Sistema de Recompensas em React
 ## _Adaptação do código-fonte disponibilizado pela Digital Innovation One_
 
-Modifiquei o código-fonte da aplicação de captura das esferas do dragão de um bootcamp da DIO, transformando a aplicação em um sistema de recompensas em que cada estrela libera um prémio e, ao conquistar todos, você pode reivindicar seu troféu.
+Modifiquei o código-fonte da aplicação de captura das esferas do dragão de um bootcamp da DIO, transformando-a em um sistema de recompensas em que cada estrela libera um prêmio e, ao conquistar todos, você pode reivindicar seu troféu.
 ## Principais alterações
 - favicon e title da aplicação alterados
 - Remoção de alguns mocks e da variável de ambiente que validava o número de prêmios do usuário
