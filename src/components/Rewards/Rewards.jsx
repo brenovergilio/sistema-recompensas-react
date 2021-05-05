@@ -99,7 +99,7 @@ const Rewards = ({ rewards, profile }) => {
                   {reward.owner !== profile.id ? (
                     <>
                       <Badge color='danger'>Não conquistada</Badge>
-                      <Button size='sm' color='warning' onClick={() => validateReward(reward)}>
+                      <Button data-testid={reward.id} size='sm' color='warning' onClick={() => validateReward(reward)}>
                         Conquistar
                       </Button>
                     </>
